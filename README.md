@@ -1,7 +1,8 @@
 #  Noctis colour schemes for Windows Terminal
 
-![Windows Terminal](img/wt.png) + ![Noctis](img/noctis.png)
-
+<h3 align="center">
+   <img src="https://github.com/aeakett/noctis-windows_terminal/blob/main/img/wt-noctis.png?raw=true" />
+</h3>
 
 I couldn't find a complete set of Windows Terminal colour schemes based on [Noctis](https://github.com/liviuschera/noctis), so decided to take matters into my own hands. Based on work from [terminalcolors.com](https://terminalcolors.com/themes/noctis/), ChatGPT generated this while I went to the kitchen to check on dinner.
 
